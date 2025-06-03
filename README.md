@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/andrewe_dev" target="blank"><img src="https://img.shields.io/twitter/follow/andrewe_dev?logo=twitter&style=for-the-badge" alt="andrewe_dev" /></a> </p>
 
-- 💻 I’m currently working for [YouVersion (Software Engineer)](https://www.linkedin.com/company/youversion)
+- 💻 I’m currently working for [YouVersion (Senior Software Engineer)](https://www.linkedin.com/company/youversion)
 
 - 📫 How to reach me **andrewelliottdev@gmail.com**
 
